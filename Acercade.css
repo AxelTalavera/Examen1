@@ -136,3 +136,111 @@
         
         color: #01A1E9;
         }
+
+
+ .Pantalla2 .Txto{
+ position: absolute;
+width: 795px;
+height: 75px;
+left: 570px;
+top: 800px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 64px;
+line-height: 75px;
+/* identical to box height */
+
+
+color: #8200FF;
+        }
+
+        .Pantalla2 .Parrafo{
+        position: absolute;
+width: 750px;
+height: 180px;
+left: 280px;
+top: 980px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+        }
+
+        .Pantalla2 .imagen{
+
+            position: absolute;
+width: 366px;
+height: 250px;
+left: 1100px;
+top: 990px;
+
+background: url(image.png);
+        }
+
+        .Pantalla2 .Posicion{
+        position: absolute;
+width: 596px;
+height: 56px;
+left: 280px;
+top: 1310px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 48px;
+line-height: 56px;
+
+color: #1B314F;
+        }
+        .Pantalla2 .Tx{
+            position: absolute;
+width: 1118px;
+height: 101px;
+left: 280px;
+top: 1400px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+        }
+
+        .Pantalla2 .Txt{
+        position: absolute;
+width: 447px;
+height: 42px;
+left: 280px;
+top: 1650px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 36px;
+line-height: 42px;
+
+color: #523E97;
+        }
+
+        .Pantalla2 .Testof{
+        position: absolute;
+width: 539px;
+height: 69px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+left: 280px;
+top: 1740px;
+color: #000000;
+        }
