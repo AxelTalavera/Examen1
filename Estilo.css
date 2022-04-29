@@ -1,0 +1,259 @@
+.pagina1{
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    
+    background: #FFFFFF;
+}
+
+.pagina1 .Grupo1{
+    position: absolute;
+    width: 193px;
+    height: 432.56px;
+    left: 211px;
+    top: 1941.44px;
+}
+.pagina1 .Grupo1 .Rectangulo{
+position: absolute;
+width: 135px;
+height: 6px;
+left: 689px;
+top: 1732px;
+
+background: #01A1E9;
+}
+.pagina1 .Grupo1 .Rectangulos{
+position: absolute;
+width: 135px;
+height: 6px;
+left: 689px;
+top: 1387px;
+
+background: #01A1E9;
+}
+
+.pagina1 .Grupo1 .Rectangulo3{
+    position: absolute;
+    width: 1512px;
+    height: 189px;
+    left: 0px;
+    top: 2258px;
+    
+    background: #1B314F;
+}
+.pagina1 .Grupo1 .Rectangulo3 .Texto{
+    position: absolute;
+width: 245px;
+height: 40px;
+left: 1070px;
+top: 80px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 40px;
+
+color: #ffffff;
+    
+}
+
+.pagina1 .Grupo1 .Rectangulo3 .Texto2{
+position: absolute;
+width: 153px;
+height: 40px;
+left: 251px;
+top: 80px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 47px;
+
+color: #6E29A9;
+}
+.pagina1 .Grupo1 .Rectangulo3 .Rallita{
+position: absolute;
+width: 160px;
+height: 3px;
+left: 251px;
+top: 70px;
+
+background: #6E29A9;
+}
+
+.pagina1 .Grupo1 .Noticia{
+position: absolute;
+width: 30px;
+height: 40px;
+left: 637px;
+top: 1656px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 75px;
+/* identical to box height */
+
+
+color: #6E29A9;
+}
+
+.pagina1 .Grupo6{
+    position: absolute;
+    width: 1118px;
+    height: 364px;
+    left: 320px;
+    top: 3810px;
+    
+    background-color: #6E29A9;
+    }
+    .pagina1 .Grupo6 .Imagen5{
+    position: absolute;
+width: 364px;
+height: 364px;
+left: 760px;
+top: 50;
+
+background: url(image.png);
+border-radius: 19px;
+}
+.pagina1 .Grupo6 .Imagen4{
+    position: absolute;
+width: 364px;
+height: 364px;
+left: 380px;
+top: 50;
+
+background: url(image.png);
+border-radius: 19px;
+}
+
+.pagina1 .Grupo6 .Imagen3{
+    position: absolute;
+width: 364px;
+height: 364px;
+left: 0px;
+top: 50;
+
+background: url(image.png);
+border-radius: 19px;
+}
+
+.pagina1 .Grupo6 .Imagen3 .texto{
+    position: absolute;
+    width: 298px;
+    height: 28px;
+    left: 10px;
+    top: 290px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #ffffff;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.pagina1 .Grupo6 .Imagen3 .text{
+position: absolute;
+width: 172px;
+height: 16px;
+left: 15px;
+top: 320px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+.pagina1 .Grupo6 .Imagen4 .texto{
+    position: absolute;
+    width: 298px;
+    height: 28px;
+    left: 10px;
+    top: 290px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #ffffff;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.pagina1 .Grupo6 .Imagen4 .text{
+position: absolute;
+width: 172px;
+height: 16px;
+left: 15px;
+top: 320px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+.pagina1 .Grupo6 .Imagen5 .texto{
+    position: absolute;
+    width: 298px;
+    height: 28px;
+    left: 10px;
+    top: 290px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #ffffff;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.pagina1 .Grupo6 .Imagen5 .text{
+position: absolute;
+width: 172px;
+height: 16px;
+left: 15px;
+top: 320px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.pagina1 .Grupo5{
+position: absolute;
+width: 689px;
+height: 75px;
+left: 650px;
+top: 3400px;
+background-color: #1B314F;
+}
