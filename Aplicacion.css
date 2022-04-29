@@ -15,30 +15,8 @@ background: #FFFFFF;
     top: 0px;
     background-color: #ffffff;
     }
-    .Pantalla3 .Grupo3 .Im{
-        position: absolute;
-    width: 1512px;
-    height: 566px;
-    left: 0px;
-    top: 100px;
     
-    background: url(image.png);
-    }
-    .Pantalla3 .Grupo3 .Im .te{
-    position: absolute;
-    width: 601px;
-    height: 226px;
-    left: 197px;
-    top: 256px;
     
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 900;
-    font-size: 96px;
-    line-height: 112px;
-    
-    color: #FFFFFF;
-    }
     .Pantalla3 .Grupo3 .Ico{
     position: absolute;
     width: 193px;
@@ -136,3 +114,265 @@ background: #FFFFFF;
         
         color: #01A1E9;
         }
+
+        .Pantalla3 .Cal{
+        position: absolute;
+width: 459px;
+height: 75px;
+left: 800px;
+top: 190px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 64px;
+line-height: 75px;
+/* identical to box height */
+
+
+color: #8200FF;
+        }
+        .Pantalla3 .Salario{
+        position: absolute;
+width: 390px;
+height: 38px;
+left: 850px;
+top: 300px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 32px;
+line-height: 38px;
+/* identical to box height */
+
+
+color: #1B314F;
+        }
+        .Pantalla3 .Rectangulo{
+        position: absolute;
+width: 460px;
+height: 54px;
+left: 800px;
+top: 390px;
+
+background: #F5F5F5;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 9px;
+        }
+        .Pantalla3 .Calcular{
+        position: absolute;
+width: 272px;
+height: 49px;
+left: 900px;
+top: 500px;
+
+background: #6E29A9;
+border-radius: 10px;
+        }
+
+        .Pantalla3 .Sb{
+        position: absolute;
+        width: 326px;
+        height: 35px;
+        left: 870px;
+        top: 603px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 32px;
+        line-height: 38px;
+        text-align: center;
+        
+        color: #1B314F;
+        }
+
+        .Pantalla3 .SBruto{
+
+        position: absolute;
+width: 460px;
+height: 54px;
+left: 800px;
+top: 651px;
+
+background: #595959;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 9px;
+        }
+        .Pantalla3 .DInss{
+            position: absolute;
+            width: 326px;
+            height: 35px;
+            left: 860px;
+            top: 735px;
+            
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 32px;
+            line-height: 38px;
+            text-align: center;
+            
+            color: #1B314F;
+        }
+        .Pantalla3 .SInss{
+        position: absolute;
+width: 460px;
+height: 54px;
+left: 800px;
+top: 783px;
+
+background: #595959;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 9px;
+        }
+        .Pantalla3 .SNeto{
+        position: absolute;
+width: 534px;
+height: 35px;
+left: 770px;
+top: 867px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #1B314F;
+        }
+        .Pantalla3 .SNetoR{
+        position: absolute;
+width: 460px;
+height: 54px;
+left: 800px;
+top: 915px;
+
+background: #595959;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 9px;
+        }
+        .Pantalla3 .SIR{
+        position: absolute;
+width: 628px;
+height: 35px;
+left: 730px;
+top: 998px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #1B314F;
+        }
+        .Pantalla3 .SIRN{
+        position: absolute;
+width: 460px;
+height: 54px;
+left: 800px;
+top: 1046px;
+
+background: #595959;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 9px;
+        }
+        .Pantalla3 .STD{
+        position: absolute;
+width: 628px;
+height: 35px;
+left: 710px;
+top: 1129px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 38px;
+text-align: center;
+
+color: #1B314F;
+        }
+        .Pantalla3 .STDT{
+        position: absolute;
+width: 460px;
+height: 54px;
+left: 800px;
+top: 1177px;
+
+background: #595959;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 9px;}
+
+
+
+.Pantalla3 .Rectangulo3{
+    position: absolute;
+    width: 1512px;
+    height: 189px;
+    left: 212px;
+    top: 1280px;
+    
+    background: #1B314F;
+}
+.Pantalla3 .Rectangulo3 .Texto{
+    position: absolute;
+width: 245px;
+height: 40px;
+left: 1070px;
+top: 80px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 40px;
+
+color: #ffffff;
+    
+}
+
+.Pantalla3 .Rectangulo3 .Texto2{
+position: absolute;
+width: 153px;
+height: 40px;
+left: 251px;
+top: 80px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 47px;
+
+color: #6E29A9;
+}
+.Pantalla3 .Rectangulo3 .Rallita{
+position: absolute;
+width: 160px;
+height: 3px;
+left: 251px;
+top: 70px;
+
+background: #6E29A9;
+}
+
+.Pantalla3 .Rectangulo3 .Logo{
+    position: absolute;
+left: 800px;
+right: 83.93%;
+top: 1100px;
+bottom: 4.76%;
+
+background: url(.png);
+}
