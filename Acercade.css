@@ -244,3 +244,66 @@ left: 280px;
 top: 1740px;
 color: #000000;
         }
+
+
+        .Pantalla2 .Rectangulo3{
+            position: absolute;
+            width: 1512px;
+            height: 189px;
+            left: 212px;
+            top: 1800px;
+            
+            background: #1B314F;
+        }
+        .Pantalla2 .Rectangulo3 .Texto{
+            position: absolute;
+        width: 245px;
+        height: 40px;
+        left: 1070px;
+        top: 80px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 40px;
+        
+        color: #ffffff;
+            
+        }
+        
+        .Pantalla2 .Rectangulo3 .Texto2{
+        position: absolute;
+        width: 153px;
+        height: 40px;
+        left: 251px;
+        top: 80px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 40px;
+        line-height: 47px;
+        
+        color: #6E29A9;
+        }
+        .Pantalla2 .Rectangulo3 .Rallita{
+        position: absolute;
+        width: 160px;
+        height: 3px;
+        left: 251px;
+        top: 70px;
+        
+        background: #6E29A9;
+        }
+        .Pantalla2 .Rectangulo3 .Logo{
+        position: absolute;
+left: 13.1%;
+right: 83.93%;
+top: 45%;
+bottom: 4.76%;
+
+background: url(.png);
+    }
+
+       
