@@ -60,7 +60,7 @@ else{
 }*/
 
 
-let Fin = Number(primer_valor.value) -resultad;
+let Fin = Number(primer_valor.value) -(resultad+irA);
     document.getElementById("SD").value = Fin
 
 
